@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bash
 
 echo "Wybierz swoja klase:
 1- Spiderman
